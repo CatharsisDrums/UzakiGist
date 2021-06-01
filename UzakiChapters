@@ -1,0 +1,49 @@
+{
+  "title": "Uzaki-chan Wants to Hang Out",
+  "description": "A collection of chapters not in the cubari archive due to Mangadex's downfall. Rest of archive: ",
+  "artist": "TAKE",
+  "author": "TAKE",
+  "cover": "https://images.booksense.com/images/896/273/9781648273896.jpg",
+  "chapters": {
+    "65": {
+      "title": "Kouhai and the Christmas Party 1",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": "/proxy/api/imgur/chapter/psoeASv/"
+      },
+      "last_updated": "1616368746"
+    },
+    "66": {
+      "title": "Kouhai and the Christmas Party 2",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": "/proxy/api/imgur/chapter/h5DmEhw/"
+      },
+      "last_updated": "1616368746"
+    },
+    "66.2": {
+      "title": "Kouhai and the Christmas Party 2",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": "/proxy/api/imgur/chapter/aqjCWP7/"
+      },
+      "last_updated": "1616368746"
+    },
+    "67": {
+      "title": "Kouhai and the Christmas Party 3",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": "/proxy/api/imgur/chapter/td7v1Q5/"
+      },
+      "last_updated": "1616368746"
+    },
+    "68": {
+      "title": "Kouhai and Heartthrob",
+      "volume": "6",
+      "groups": {
+        "orchesc/a/ns": "/proxy/api/imgur/chapter/dO4WPDG/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
